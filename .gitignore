@@ -2,3 +2,6 @@
 .idea
 bundle.js
 redme.md
+package-lock.json
+.idea/
+bundle.js
